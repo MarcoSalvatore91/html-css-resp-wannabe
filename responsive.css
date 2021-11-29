@@ -7,4 +7,20 @@
         margin-top: 0;
         background-color: rgb(242,242,205);
     }
+    #steps .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 0;
+        background-color: rgb(255,255,255);
+    }
+    #why .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 0;
+        background-color: rgb(242,242,205);
+    }
 }
