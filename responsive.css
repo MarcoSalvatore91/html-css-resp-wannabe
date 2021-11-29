@@ -24,3 +24,12 @@
         background-color: rgb(242,242,205);
     }
 }
+
+@media screen and (max-width: 419px) {
+    h1 {
+        font-size: 2.5em;
+    }
+    h3 {
+        font-size: 2em;
+    }
+}
