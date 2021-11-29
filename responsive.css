@@ -27,15 +27,20 @@
 
 @media screen and (max-width: 419px) {
     h1 {
-        font-size: 2.5em;
+        font-size: 3em;
     }
     h3 {
-        font-size: 2em;
+        font-size: 2.2rem;
+        margin: 0;
     }
     #lezioni .row>.left, #lezioni .row>.right {
         width: 100%;
+        font-size: 1.9rem;
+        margin-bottom: 30px;
     }
-    #steps .row>.left,#steps .row>.central #steps .row>.right {
+    #steps .row>.left, #steps .row>.central, #steps .row>.right {
         width: 100%;
+        font-size: 1.9rem;
+        margin-bottom: 30px;
     }
 }
