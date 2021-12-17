@@ -12,19 +12,20 @@
         margin-top: 0;
         background-color: rgb(242,242,205);
     }
+
     #steps .row {
         background-color: rgb(255,255,255);
     }
-}
 
-@media screen and (max-width: 419px) {
     #why img{
         margin-top: 30px;
     }
+
     h1 {
         font-size: 3em;
         margin-bottom: 20px;
     }
+
     h3 {
         font-size: 2.2rem;
         margin: 0;
@@ -35,11 +36,13 @@
         font-size: 1.9rem;
         margin-bottom: 30px;
     }
+
     #steps .row>.left, #steps .row>.central, #steps .row>.right {
         width: 100%;
         font-size: 1.9rem;
         margin-bottom: 30px;
     }
+    
     #why .row>.first, #why .row>.second, #why .row>.third {
         font-size: 1.8rem;
         margin: 0;
