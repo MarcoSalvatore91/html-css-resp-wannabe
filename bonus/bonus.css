@@ -1,6 +1,0 @@
-@media screen and (max-width: 749px) {
-    #steps {
-        display: flex;
-        flex-direction: column;
-    }
-}
